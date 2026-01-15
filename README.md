@@ -20,6 +20,18 @@
 ---
 ---
 
+## Deep Learning Algorithms
+
+### 1. Convolutional Neural Networks ([CNN](https://wikipedia.org/wiki/Convolutional_neural_network)s)
+
+### 2. Recurrent Neural Networks ([RNN](https://wikipedia.org/wiki/Recurrent_neural_network)s)
+
+### 3. Long Short-Term Memory Networks ([LSTM](https://wikipedia.org/wiki/Long_short-term_memory)s)
+
+### 4. Generative Adversarial Networks ([GAN](https://wikipedia.org/wiki/Generative_adversarial_network)s)
+
+### 5. [Autoencoder](https://wikipedia.org/wiki/Autoencoder)s
+
 
 ##
 
