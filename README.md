@@ -13,6 +13,7 @@
 </p>
 
 ## 📖 Contents
+- [Types of Deep Learning](#types-of-deep-learning)
 - [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -20,7 +21,7 @@
 ---
 ---
 
-## Deep Learning Algorithms
+## Types of Deep Learning
 
 ### 1. Convolutional Neural Networks ([CNN](https://wikipedia.org/wiki/Convolutional_neural_network)s)
 
