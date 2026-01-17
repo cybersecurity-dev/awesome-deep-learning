@@ -1,7 +1,10 @@
-# Awesome [Deep Learning](https://wikipedia.org/wiki/Deep_learning) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+# **`Awesome`** [Deep Learning](https://wikipedia.org/wiki/Deep_learning) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/memoryforensics/new/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/deeplearning/new/)
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
