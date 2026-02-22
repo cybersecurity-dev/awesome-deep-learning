@@ -17,6 +17,11 @@
 
 ## 📖 Contents
 - [Types of Deep Learning](#types-of-deep-learning)
+    - 1. [Convolutional Neural Networks](#1-convolutional-neural-networks-cnns)
+    - 2. [Recurrent Neural Networks](2-recurrent-neural-networks-rnns)
+    - 3. [Long Short-Term Memory Networks](#3-long-short-term-memory-networks-lstms)
+    - 4. [Generative Adversarial Networks](#4-generative-adversarial-networks-gans)
+    - 5. [Autoencoder](#5-autoencoders)
 - [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
