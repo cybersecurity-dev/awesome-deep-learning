@@ -124,15 +124,16 @@ timeline
 ## 📖 Contents
 - [Types of Deep Learning](#types-of-deep-learning)
     - 1. [Convolutional Neural Networks](#1-convolutional-neural-networks-cnns)
-    - 2. [Recurrent Neural Networks](2-recurrent-neural-networks-rnns)
-    - 3. [Long Short-Term Memory Networks](#3-long-short-term-memory-networks-lstms)
-    - 4. [Generative Adversarial Networks](#4-generative-adversarial-networks-gans)
-    - 5. [Autoencoder](#5-autoencoders)
+    - 2. [Recurrent Networks](#2-recurrent-networks)
+      - 2.1 [Recurrent Neural Networks](#21-recurrent-neural-networks-rnns)
+      - 2.2 [Long Short-Term Memory Networks](#22-long-short-term-memory-networks-lstms)
+    - 3. [Generative Models](#3-generative-models)
+      - 3.1 [Generative Adversarial Networks](#31-generative-adversarial-networks-gans)
+      - 3.2 [Autoencoder](#32-autoencoder) 
+    - 4. [Graph Neural Networks](#4-graph-neural-networks)
 - [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
-
-
 
 ## Types of Deep Learning
 
@@ -180,18 +181,58 @@ graph TD
 ```
 
 ### 1. Convolutional Neural Networks ([CNN](https://wikipedia.org/wiki/Convolutional_neural_network)s)
-A convolutional neural network (CNN) is a type of feedforward neural network that learns features via filter (or kernel) optimization. This type of deep learning network has been applied to process and make predictions from many different types of data including text, images and audio.
+> A convolutional neural network (CNN) is a type of feedforward neural network that learns features via filter (or kernel) optimization. This type of deep learning network has been applied to process and make predictions from many different types of data including text, images and audio.
 
-### 2. Recurrent Neural Networks ([RNN](https://wikipedia.org/wiki/Recurrent_neural_network)s)
-In artificial neural networks, recurrent neural networks (RNNs) are designed for processing sequential data, such as text, speech, and time series, where the order of elements is important. 
+```text
+└──┐ 
+   ├── LeNet
+   ├── AlexNet
+   ├── VGG
+   ├── ResNet
+   ├── DenseNet
+   └── EfficientNet
+```
 
-### 3. Long Short-Term Memory Networks ([LSTM](https://wikipedia.org/wiki/Long_short-term_memory)s)
-Long short-term memory (LSTM) is a type of recurrent neural network (RNN) aimed at mitigating the vanishing gradient problem commonly encountered by traditional RNNs.
+### 2. Recurrent Networks
 
-### 4. Generative Adversarial Networks ([GAN](https://wikipedia.org/wiki/Generative_adversarial_network)s)
+```text
+└──┐
+   ├── RNN
+   ├── LSTM
+   └── GRU
+```
+#### 2.1 Recurrent Neural Networks ([RNN](https://wikipedia.org/wiki/Recurrent_neural_network)s)
+> In artificial neural networks, recurrent neural networks (RNNs) are designed for processing sequential data, such as text, speech, and time series, where the order of elements is important.
 
-### 5. [Autoencoder](https://wikipedia.org/wiki/Autoencoder)s
-An autoencoder is a type of artificial neural network used to learn efficient codings of unlabeled data (unsupervised learning). An autoencoder learns two functions: an encoding function that transforms the input data, and a decoding function that recreates the input data from the encoded representation. The autoencoder learns an efficient representation (encoding) for a set of data, typically for dimensionality reduction, to generate lower-dimensional embeddings for subsequent use by other machine learning algorithms.
+#### 2.2 Long Short-Term Memory Networks ([LSTM](https://wikipedia.org/wiki/Long_short-term_memory)s)
+> Long short-term memory (LSTM) is a type of recurrent neural network (RNN) aimed at mitigating the vanishing gradient problem commonly encountered by traditional RNNs.
+
+### 3. Generative Models
+
+```text
+└──┐
+   ├── Autoencoder
+   ├── VAE
+   ├── GAN
+   └── Diffusion Models
+```
+
+#### 3.1 Generative Adversarial Networks ([GAN](https://wikipedia.org/wiki/Generative_adversarial_network)s)
+> 
+
+#### 3.2 [Autoencoder](https://wikipedia.org/wiki/Autoencoder)
+> An autoencoder is a type of artificial neural network used to learn efficient codings of unlabeled data (unsupervised learning). An autoencoder learns two functions: an encoding function that transforms the input data, and a decoding function that recreates the input data from the encoded representation. The autoencoder learns an efficient representation (encoding) for a set of data, typically for dimensionality reduction, to generate lower-dimensional embeddings for subsequent use by other machine learning algorithms.
+
+### 4. Graph Neural Networks
+>
+
+```text
+└──┐
+   ├── GCN
+   ├── GraphSAGE
+   ├── GAT
+   └── HGNN
+```
 
 ##
 
@@ -203,5 +244,8 @@ You can access the my awesome lists [here](https://cyberthreatdefence.com/my_awe
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-deep-learning/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-deep-learning-dl-)
